@@ -1,0 +1,5 @@
+how to get a local repo to github
+
+1) git init on your folder 
+2) git remote add origin main
+3) git push  -u origin main
